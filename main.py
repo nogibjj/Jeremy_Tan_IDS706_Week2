@@ -12,7 +12,7 @@ def describe_iris(summary):
         index=pd.Index([i for i in range(iris_obj["data"].shape[0])]),
     ).join(
         DataFrame(
-            iris_obj.target,
+            iris_obj["target"],
             columns=pd.Index(["species"]),
             index=pd.Index([i for i in range(iris_obj["target"].shape[0])]),
         )

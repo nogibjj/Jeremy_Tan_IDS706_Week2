@@ -11,7 +11,7 @@ def test_describe_iris():
 
     # print(describe_iris("mean"))
     # print(describe_iris("mean").keys())
-    assert describe_iris("mean").loc["sepal length (cm)"] == 5.843333
+    assert describe_iris("mean").loc["sepal length (cm)"] == 5.843333333333334
 
 
 if __name__ == "__main__":

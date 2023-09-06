@@ -4,7 +4,12 @@ from sklearn.datasets import load_iris
 
 
 def describe_iris(summary):
-    """uses .describe() to find descriptive stats"""
+    """uses .describe() to find descriptive stats,
+    the summary argument requires any of the values in
+    https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
+
+    ex. "max", "mean", "min"... "freq"
+    """
     iris_obj = load_iris()
     iris = DataFrame(
         iris_obj["data"],

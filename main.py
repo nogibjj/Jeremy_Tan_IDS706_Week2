@@ -24,3 +24,10 @@ def describe_iris(summary):
     )
 
     return iris.describe(include="all").loc[summary]
+
+
+def general_describe(csv):
+    """general describe function in csv"""
+    general_df = pd.read_csv(csv)
+
+    return general_df.describe()

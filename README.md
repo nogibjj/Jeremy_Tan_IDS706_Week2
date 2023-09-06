@@ -1,5 +1,5 @@
-# IDS706-python-template [![CI](https://github.com/jeremymtan/IDS706-python-template/actions/workflows/ci.yml/badge.svg)](https://github.com/jeremymtan/IDS706-python-template/actions/workflows/ci.yml)
-This repo contains work for mini-project 1. It sets up an environment on codespaces and uses Github Actions to run a Makefile for the following: `make install`, `make test`, `make format`, `make lint`. 
+# IDS706-python-template [![CI](https://github.com/nogibjj/Jeremy_Tan_IDS706_Week2/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Jeremy_Tan_IDS706_Week2/actions/workflows/ci.yml)
+This repo contains work for mini-project 2. It sets up an environment on codespaces and uses Github Actions to run a Makefile for the following: `make install`, `make test`, `make format`, `make lint`. It loads the iris dataset and runs a simple function to generate descriptive statistics on the dataset. 
 
 Some important stuff included are:
 

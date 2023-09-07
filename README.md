@@ -26,5 +26,5 @@ The purpose of this project is to extend from the previous project (making a pyt
 
 3. Test code `make test`
 
-<img width="751" alt="Screenshot 2023-09-07 at 7 14 10 PM" src="https://github.com/nogibjj/Jeremy_Tan_IDS706_Week2/assets/36715338/8343c2f7-b005-4103-a468-9f917b91eeba"
+<img width="751" alt="Screenshot 2023-09-07 at 7 14 10 PM" src="https://github.com/nogibjj/Jeremy_Tan_IDS706_Week2/assets/36715338/8343c2f7-b005-4103-a468-9f917b91eeba">
 

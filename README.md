@@ -16,7 +16,7 @@ The purpose of this project is to extend from the previous project (making a pyt
 
 ## Preparation
 1. open codespaces 
-2. wait for container to be built and virtual environment to be activated with requiremnts.txt installed
+2. wait for container to be built with requiremnts.txt installed
 
 ## Check format and test errors
 1. Format code `make format`

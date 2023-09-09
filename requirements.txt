@@ -10,6 +10,8 @@ boto3==1.24.87
 fastapi==0.85.0
 uvicorn==0.18.3
 
-# add pandas and dataset to be loaded
+# add pandas, matplpotlib, and sklearn 
 pandas
 scikit-learn
+matplotlib
+ydata_profiling
